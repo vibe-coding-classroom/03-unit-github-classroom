@@ -1,5 +1,3 @@
-Viewed 03-unit-github-classroom.html:1-697
-
 針對 **`03-unit-github-classroom` (Classroom 與 Vibe Coding 實務)** 單元，由於這是銜接入門與進階開發的「關鍵橋樑」，其作業 (Assignments) 涵蓋了從 AI 提示詞到工程自動化的全維度。
 
 以下是針對這 **9 個核心任務** 在 GitHub Classroom 部署的整合性建議：
